@@ -68,8 +68,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akembona&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akembona&theme=tokyonight" height="160" />
@@ -78,6 +76,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akembona&layout=compact&theme=tokyonight" height="160" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akembona&theme=tokyonight" />
+</p>
+## 🧰 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,ansible,jenkins,linux,python,bash,prometheus,grafana" />
+</p>
+
 
 ---
 
