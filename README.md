@@ -1,5 +1,5 @@
 <!-- GitHub Profile README for Emmanuel Azure -->
-
+assets/Hi.gif
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" alt="Emmanuel Azure Banner" />
 </p>
